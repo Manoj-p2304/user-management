@@ -2,6 +2,10 @@
 
 A React-based web application for managing user data with create, read, update, and delete (CRUD) operations. The application integrates with JSONPlaceholder API for simulating backend interactions.
 
+# LIVE AT
+
+https://aquamarine-beignet-fe1552.netlify.app/
+
 ## 🚀 Features
 
 - **User List Display**: View all users with their details including ID, name, email, and department
