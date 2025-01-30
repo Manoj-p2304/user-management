@@ -4,7 +4,7 @@ A React-based web application for managing user data with create, read, update, 
 
 # LIVE AT
 
-https://aquamarine-beignet-fe1552.netlify.app/
+https://lively-dieffenbachia-f04bb6.netlify.app/
 
 ## 🚀 Features
 
